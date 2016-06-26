@@ -1,2 +1,2 @@
 # hello-boldr
-github guide examp;e
+github guide example
